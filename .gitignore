@@ -1,0 +1,22 @@
+# Credentials and Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Large files (Optional, keeping model for demo if small, but ignoring general bin if needed)
+# *.pth 
+# Keeping model_2d.pth for the app to work out of the box
