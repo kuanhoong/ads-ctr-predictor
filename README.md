@@ -1,12 +1,15 @@
 # Ads CTR Predictor
 
+<img width="1649" height="882" alt="screenshot" src="https://github.com/user-attachments/assets/393b7f70-1876-48e2-bf61-c0f13f99b807" />
+
 This application predicts the Click-Through Rate (CTR) of display image advertisements using a 2D Convolutional Neural Network (CNN). It allows users to upload multiple ad designs and recommends the one with the highest predicted performance.
 
 ## Based on Research
 This implementation is based on the paper:
 
 **Cite this paper:**
-Jhinn, W.L., Hoong, P.K., Chua, HK. (2020). Combination of 1D CNN and 2D CNN to Evaluate the Attractiveness of Display Image Advertisement and CTR Prediction. In: Lee, R. (eds) Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing. SNPD 2019. Studies in Computational Intelligence, vol 850. Springer, Cham. https://doi.org/10.1007/978-3-030-26428-4_11
+Jhinn, W.L., Hoong, P.K., Chua, HK. (2020). Combination of 1D CNN and 2D CNN to Evaluate the Attractiveness of Display Image Advertisement and CTR Prediction. In: Lee, R. (eds) Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing. SNPD 2019. Studies in Computational Intelligence, vol 850. Springer, Cham. https://doi.o
+rg/10.1007/978-3-030-26428-4_11
 
 ## Features
 - **Feature Extraction**: Extracts global image features (Brightness, Saturation, Colorfulness, Naturalness, Grayscale).
