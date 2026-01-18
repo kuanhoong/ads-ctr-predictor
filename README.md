@@ -7,8 +7,12 @@ This application predicts the Click-Through Rate (CTR) of display image advertis
 ## Based on Research
 This implementation is based on the paper:
 
+<img width="668" height="1016" alt="paper" src="https://github.com/user-attachments/assets/145e4298-8fc1-4c15-bd18-3313b311269b" />
+
+
 **Cite this paper:**
-Jhinn, W.L., Hoong, P.K., Chua, HK. (2020). Combination of 1D CNN and 2D CNN to Evaluate the Attractiveness of Display Image Advertisement and CTR Prediction. In: Lee, R. (eds) Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing. SNPD 2019. Studies in Computational Intelligence, vol 850. Springer, Cham. https://doi.org/10.1007/978-3-030-26428-4_11 
+
+*Jhinn, W.L., Hoong, P.K., Chua, HK. (2020). Combination of 1D CNN and 2D CNN to Evaluate the Attractiveness of Display Image Advertisement and CTR Prediction. In: Lee, R. (eds) Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing. SNPD 2019. Studies in Computational Intelligence, vol 850. Springer, Cham. https://doi.org/10.1007/978-3-030-26428-4_11* 
 
 ## Features
 - **Feature Extraction**: Extracts global image features (Brightness, Saturation, Colorfulness, Naturalness, Grayscale).
